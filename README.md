@@ -1,2 +1,2 @@
 # C-Program
-programming in C program language.
+*Programming in C program language.Practice data structure.*
